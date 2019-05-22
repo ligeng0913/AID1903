@@ -5,7 +5,7 @@ http server v2.0
 * 使用类封装
 """
 from socket import *
-
+hah ha ha ah aha ah ah 
 
 
 # 　将具体http server功能封装
